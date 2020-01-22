@@ -1,6 +1,7 @@
 # awesome-flutter-cn
 * flutter相关中文资料汇总。本文内容参考了[awesome-flutter-cn](https://github.com/crazycodeboy/awesome-flutter-cn)及[awesome-fluttercn](https://github.com/fluttercnclub/awesome-fluttercn)，感谢原作者的整理分享。本仓库仅收集免费的中文资源及官方英文资源，对于有需要英文资料的可参考下面的链接
 * 英文学习资源请参考：[awesome-flutter](https://github.com/Solido/awesome-flutter)
+* 免责声明：本文内容链接均收集于网络，如有侵权请告知。
 
 ## 目录
 ## 新手入门
@@ -15,6 +16,9 @@
 * [《Flutter实战》电子书官网](https://book.flutterchina.club/)
 * [GSY Flutter 完整开发实战详解](https://guoshuyu.cn/home/wx/)
 ## 社区
+## 视频教程
+* [宁皓网-Flutter入门到精通（1~21）](https://www.bilibili.com/video/av52699308/)
+* [技术胖-Flutter基础视频教程](https://www.bilibili.com/video/av35800108)
 ## 开源项目
 * [Flutter Go](https://github.com/alibaba/flutter-go)
 * [Flutter中文网开源项目](https://flutterchina.club/opensource.html)
